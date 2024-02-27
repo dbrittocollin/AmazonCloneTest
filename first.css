@@ -1,0 +1,116 @@
+*{
+    margin: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.home{
+    background-image: url(amazon_home.jpg);
+    height: 600px;
+    width: 1500px;
+    background-size: cover;
+}
+.options{
+    
+    display: flex;
+    height: 385px;
+    width: 1500px;
+    position: absolute;
+    bottom: 0px;
+    justify-content: space-around;
+    background-color: white
+    
+    
+    
+}
+
+.box{
+    width: 293px;
+    
+    
+
+}
+.img1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    object-fit: cover;
+    
+    
+}
+
+.text1{
+    margin: 20px;
+}
+.text2{
+    display: flex;
+    margin: 20px;
+}
+
+p{
+    background-color: darkred ;
+    color: white;
+}
+
+.random{
+    margin:20px;
+    font-size:13px;
+}
+
+pre{
+    color: darkred;   
+}
+a{
+    text-decoration: none;
+    color: skyblue;
+}
+
+.text4{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.img2{
+    width: 308px;
+    height: 301px;
+}
+
+
+
+
+.imgall1{
+    
+    display: flex;
+    text-align: center;
+    font-size: 12px;
+    
+    
+}
+.imgall2{
+    
+    display: flex;
+    text-align: center;
+    font-size: 12px;
+    
+    
+}
+
+.allfour{
+    width: 125px;
+    height: 115px;
+    padding-right: 15px;
+    object-fit: cover;
+}
+
+.text3{
+    margin: 20px;
+    
+}
+
+.text6{
+    margin-top: 44px;
+}
+
+a:hover{
+    color: red;
+}
